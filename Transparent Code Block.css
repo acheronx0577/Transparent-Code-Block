@@ -16,7 +16,8 @@
 .scrollbarGhostHairline__506b3,  
 .codeView__4d95d {  
     background-color: rgba(21, 28, 32, 0.212) !important;  
-    border-radius: 15px;  
+    border-radius: 15px; 
+    border: none !important;
 }  
 
 /* ✨ Transparent syntax highlighting */  
@@ -26,7 +27,9 @@
 
 /* 🚀 Transparent footer */  
 .footer__4d95d {  
-    background-color: transparent !important;  
-
+    background-color: rgba(21, 28, 32, 0.212) !important;  
+    border: none !important;
 }  
+
+
 
