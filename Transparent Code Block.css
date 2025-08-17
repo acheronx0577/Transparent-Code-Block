@@ -2,7 +2,7 @@
  * @name Transparent Code Block
  * @author AcheronX.
  * @description Make Code Block Transparent
- * @source https://github.com/acheronx0577/Better-Compact-Command-Menu-With-Smooth-Transition/edit/main/Better%20Compact%20Command%20Menu%20With%20Smooth%20Transition.css
+ * @source https://github.com/acheronx0577/Transparent-Code-Block/blob/main/Transparent%20Code%20Block.css
  * @version 0.0.1
  * @website https://github.com/acheronx0577
  */
@@ -28,4 +28,5 @@
 /* 🚀 Transparent footer */  
 .footer__4d95d {  
     background-color: transparent !important;  
+
 }  
