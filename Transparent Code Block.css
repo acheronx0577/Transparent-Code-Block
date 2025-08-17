@@ -17,7 +17,6 @@
 .codeView__4d95d {  
     background-color: rgba(21, 28, 32, 0.212) !important;  
     border-radius: 15px;  
-    border: none !important;  
 }  
 
 /* ✨ Transparent syntax highlighting */  
@@ -30,3 +29,4 @@
     background-color: transparent !important;  
 
 }  
+
