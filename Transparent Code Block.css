@@ -16,7 +16,7 @@
 .scrollbarGhostHairline__506b3,  
 .codeView__4d95d {  
     background-color: rgba(21, 28, 32, 0.212) !important;  
-    border-radius: 15px; 
+    clip-path: inset(0 round 15px);
     border: none !important;
 }  
 
@@ -30,6 +30,7 @@
     background-color: rgba(21, 28, 32, 0.212) !important;  
     border: none !important;
 }  
+
 
 
 
