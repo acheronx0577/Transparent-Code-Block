@@ -1,0 +1,31 @@
+/**
+ * @name Transparent Code Block
+ * @author AcheronX.
+ * @description Make Code Block Transparent
+ * @source https://github.com/acheronx0577/Better-Compact-Command-Menu-With-Smooth-Transition/edit/main/Better%20Compact%20Command%20Menu%20With%20Smooth%20Transition.css
+ * @version 0.0.1
+ * @website https://github.com/acheronx0577
+ */
+
+/* 🌈 Make code blocks transparent */  
+.nonVisualMediaItem_f4758a,  
+.mosaicItem__6c706,  
+.mosaicItemContent__6c706,  
+.container__4d95d,  
+.textContainer__4d95d,  
+.scrollbarGhostHairline__506b3,  
+.codeView__4d95d {  
+    background-color: rgba(21, 28, 32, 0.212) !important;  
+    border-radius: 15px;  
+    border: none !important;  
+}  
+
+/* ✨ Transparent syntax highlighting */  
+.hljs {  
+    background: rgba(6, 4, 26, 0.432) !important;  
+}  
+
+/* 🚀 Transparent footer */  
+.footer__4d95d {  
+    background-color: transparent !important;  
+}  
