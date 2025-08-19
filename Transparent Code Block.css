@@ -7,7 +7,7 @@
  * @website https://github.com/acheronx0577
  */
 
-/* 🌈 Make code blocks transparent */  
+/* 🌈 Transparent code blocks with copy support */
 .nonVisualMediaItem_f4758a,  
 .mosaicItem__6c706,  
 .mosaicItemContent__6c706,  
@@ -15,22 +15,24 @@
 .textContainer__4d95d,  
 .scrollbarGhostHairline__506b3,  
 .codeView__4d95d {  
-    background-color: rgba(21, 28, 32, 0.212) !important;  
-    clip-path: inset(0 round 15px);
+    background-color: rgba(21, 28, 32, 0.212) !important;
+    border-radius: 15px !important;
     border: none !important;
+    user-select: text !important;
+    pointer-events: auto !important;
 }  
 
 /* ✨ Transparent syntax highlighting */  
 .hljs {  
     background: rgba(6, 4, 26, 0.432) !important;  
-}  
+    user-select: text !important;
+}
 
 /* 🚀 Transparent footer */  
 .footer__4d95d {  
     background-color: rgba(21, 28, 32, 0.212) !important;  
     border: none !important;
-}  
-
+}
 
 
 
